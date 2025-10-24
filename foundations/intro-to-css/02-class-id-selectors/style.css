@@ -1,5 +1,22 @@
 /* Add CSS Styling */
-.class {
+.odd-numbered {
     background-color:#ffa6a7;
     color:#000000;
+    font-family: Verdana, "DejaVu Sans", sans-serif
+}   
+
+#id {
+    color: #0000FF;
+    font-size: 36px;
+}   
+
+
+.number-3 {
+    font-size: 24px;
+}
+
+#id-three {
+  background-color: #80ff80;
+  font-size: 24px;
+  font-weight: bold;
 }
